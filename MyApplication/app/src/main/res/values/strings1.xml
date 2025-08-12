@@ -1,0 +1,8 @@
+<resources>
+    <style name="Circular">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <string name="usu_rio" translatable="false">Usuário</string>
+    <string name="entrar" translatable="false">Entrar</string>
+</resources>
